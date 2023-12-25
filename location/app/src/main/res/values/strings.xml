@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">location</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="enter_otp_code">Enter OTP Code</string>
+    <string name="type_your_phone_number">Type your phone number</string>
+    <string name="map_key">AIzaSyCVpZGK86mu2V1-dwVDnT3K-KzFJ75Z3IA</string>
+<!--    <string name="map_key">AIzaSyDUyybxUre-5CsW-rI8qfFOiJHyl8029OY</string>-->
+    <string name="base_url">https://maps.googleapis.com/</string>
+</resources>
